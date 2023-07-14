@@ -11,11 +11,6 @@ Guide to C++ installation in windows:\
 https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/
 
 
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ## RUN the Code
 
 
